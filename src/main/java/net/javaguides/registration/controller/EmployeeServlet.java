@@ -87,6 +87,7 @@ public class EmployeeServlet extends HttpServlet {
 
 	//	RequestDispatcher dispatcher = request.getRequestDispatcher( )
 		
+		//check later jsp page
 				
 				//response.sendRedirect("registered.jsp");
 

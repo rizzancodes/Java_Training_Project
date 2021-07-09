@@ -31,7 +31,7 @@ function validateFields(){
             },
             lastName: {
                 required: true,
-                minlength: 5
+                minlength: 2
             },
             username:{
                 required: true,
